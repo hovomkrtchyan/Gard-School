@@ -337,7 +337,7 @@ div ul input {
 }
 
 .course {
-    width: 100%;
+    width: 320px;
     height: auto;
     background-color: white;
     display: flex;
@@ -792,6 +792,9 @@ footer span {
         font-size: 15px;
     }
 
+    .course{
+        width:100%;
+    }
 
     .Best_Education_body {
         display: flex;
@@ -926,5 +929,6 @@ footer span {
         height: 200px;
         display: flex;
     }
+
 
 }
