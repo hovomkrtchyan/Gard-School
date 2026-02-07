@@ -574,6 +574,7 @@ div ul input {
     background-color: rgba(128, 128, 128, 0.399);
     padding: 10px 20px;
     transition: .4s;
+    font-size:18px;
 
 
     &:focus {
@@ -920,6 +921,8 @@ footer span {
         display: flex;
         flex-direction: column;
         align-items: center;
+                background-color: rgba(22, 34, 57, 0.85);
+
 
     }
 
@@ -940,4 +943,5 @@ footer span {
 
 
 }
+
 
